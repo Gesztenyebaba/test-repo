@@ -1,2 +1,3 @@
 pelda1
-Sikeres feladatok:) 
+Sikeres feladatok:)
+TOKENHASZNÁLAT BELÉPÉSKOR PUSHNÁL 
